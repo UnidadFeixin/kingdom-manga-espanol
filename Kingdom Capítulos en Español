@@ -3,16 +3,14 @@
   "description": "Nacidos en el periodo de los Reinos Combatientes, Xin y Piao son huérfanos de guerra del Estado de Qin que sueñan con convertirse en los más grandes generales bajo los cielos. Por otro lado, se encuentra Ying Zheng, el joven Rey del Estado de Qin que sueña con unificar China por primera vez en la historia.",
   "artist": "Yasuhisa Hara",
   "author": "Yasuhisa Hara",
-  "cover": "https://imgur.com/a/kKaG0uj",
+  "cover": "https://imgur.io/a/kKaG0uj",
   "chapters": {
     "743": {
       "title": "La promesa",
       "volume": "68",
       "groups": {
-        "Unidad Feixin": [
-            "https://imgur.com/a/H9tZxqc"
-          ]
-        },
+        "Unidad Feixin": "/proxy/api/imgur/chapter/H9tZxqc/"
+      },
         "last_updated": "1673902788"
       }
     }
