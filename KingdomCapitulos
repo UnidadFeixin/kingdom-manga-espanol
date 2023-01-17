@@ -5,13 +5,21 @@
   "author": "Yasuhisa Hara",
   "cover": "https://i.imgur.com/DGvjz1U.jpg",
   "chapters": {
+    "742": {
+      "title": "El escudo de Li Mu",
+      "volume": "68",
+      "groups": {
+        "Unidad Feixin": "/proxy/api/imgur/chapter/gNk7dgp/"
+      },
+        "last_updated": "1673902788"
+      },
     "743": {
       "title": "La promesa",
       "volume": "68",
       "groups": {
-        "Unidad Feixin": "/proxy/api/imgur/chapter/H9tZxqc/"
+        "Unidad Feixin": "/proxy/api/imgur/chapter/4mAadC9/"
       },
-        "last_updated": "1673902788"
-      }
+      "last_updated": "1673916879"
     }
+  }
 }
