@@ -1,5 +1,5 @@
 {
-  "title": "Kingdom en Español",
+  "title": "Kingdom Manga en Español",
   "description": "Nacidos en el periodo de los Reinos Combatientes, Xin y Piao son huérfanos de guerra del Estado de Qin que sueñan con convertirse en los más grandes generales bajo los cielos. Por otro lado, se encuentra Ying Zheng, el joven Rey del Estado de Qin que sueña con unificar China por primera vez en la historia.",
   "artist": "Yasuhisa Hara",
   "author": "Yasuhisa Hara",
@@ -20,6 +20,14 @@
         "Unidad Feixin": "/proxy/api/imgur/chapter/4mAadC9/"
       },
       "last_updated": "1673916879"
+    },
+"745": {
+      "title": "El momento de la llegada",
+      "volume": "68",
+      "groups": {
+        "<Unidad Feixin": "/proxy/api/imgur/chapter/2lf6wgo/"
+      },
+      "last_updated": "1673918560"
     }
   }
 }
