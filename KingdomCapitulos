@@ -46,12 +46,20 @@
       "last_updated": "1674624764"
     },
 "748": {
-      "title": "no name yet",
+      "title": "La intuición de Ogiko",
       "volume": "69",
       "groups": {
-        "Unidad Feixin": "/proxy/api/imgur/chapter/70ACHrs/"
+        "Unidad Feixin": "/proxy/api/imgur/chapter/HAQovRY/"
       },
       "last_updated": "1676303001"
-    }
+    },
+"749": {
+      "title": "Familia",
+      "volume": "69",
+      "groups": {
+        "Unidad Feixin": "/proxy/api/imgur/chapter/1wLvLiw/"
+      },
+      "last_updated": "1676672518"
+    }
   }
 }
