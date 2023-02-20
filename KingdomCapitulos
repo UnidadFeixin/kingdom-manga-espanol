@@ -53,13 +53,13 @@
       },
       "last_updated": "1676303001"
     },
-"749": {
-      "title": "Familia",
-      "volume": "69",
-      "groups": {
-        "Unidad Feixin": "/proxy/api/imgur/chapter/nzmvbGh/"
-      },
-      "last_updated": "1676922336"
-    }
-  }
+"749":{
+         "title":"Familia",
+         "volume":"69",
+         "groups":{
+            "Unidad Feixin":"/proxy/api/imgur/chapter/nzmvbGh/"
+         },
+         "last_updated":"1676922336"
+      }
+   }
 }
